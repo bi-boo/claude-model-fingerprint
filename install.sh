@@ -6,7 +6,7 @@ set -e
 
 SKILL_NAME="模型指纹检测"
 SKILL_DIR="$HOME/.claude/skills/$SKILL_NAME"
-REPO_URL="https://raw.githubusercontent.com/YOUR_USERNAME/claude-model-fingerprint/main"
+REPO_URL="https://raw.githubusercontent.com/bi-boo/claude-model-fingerprint/main"
 
 echo "🔍 安装 Claude 模型指纹检测 Skill..."
 

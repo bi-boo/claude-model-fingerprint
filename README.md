@@ -19,14 +19,14 @@ mkdir -p ~/.claude/skills/模型指纹检测
 
 # 下载 SKILL.md
 curl -o ~/.claude/skills/模型指纹检测/SKILL.md \
-  https://raw.githubusercontent.com/YOUR_USERNAME/claude-model-fingerprint/main/SKILL.md
+  https://raw.githubusercontent.com/bi-boo/claude-model-fingerprint/main/SKILL.md
 ```
 
 ### 方法 2：Git Clone
 
 ```bash
 cd ~/.claude/skills/
-git clone https://github.com/YOUR_USERNAME/claude-model-fingerprint.git 模型指纹检测
+git clone https://github.com/bi-boo/claude-model-fingerprint.git 模型指纹检测
 ```
 
 ## 使用方法
